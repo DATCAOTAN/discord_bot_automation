@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local env
+.env
+.env.*
+
+# Google credentials
+credentials.json
+Data_Airdrop.json
+
+# Spreadsheets and logs
+*.xlsx
+*.xls
+Bot_Running_Details.xlsx
+
+# Local artifacts
+*.log
+*.tmp

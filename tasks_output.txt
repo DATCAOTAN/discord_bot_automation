@@ -1,0 +1,6 @@
+https://discord.gg/EXAMPLE   (Example Server)
+join --> chọn bất kì --> next --> skip
+https://discord.gg/EXAMPLE2  (Example Server 2)
+join --> chọn bất kì --> skip --> get verified --> ✅ --> "You've been successfully verified. Enjoy!" là ok
+https://discord.gg/EXAMPLE3  (Example Server 3)
+join --> verify --> vượt captcha

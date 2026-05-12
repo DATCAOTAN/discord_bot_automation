@@ -1,0 +1,7 @@
+http://PROXY_HOST:PORT/reset?proxy=PROXY_HOST:PROXY_PORT
+http://PROXY_HOST:PORT/status?proxy=PROXY_HOST:PROXY_PORT
+http://PROXY_HOST:PORT/proxy_list
+GOOGLE_SHEET_ID=YOUR_SHEET_ID
+PROXY_HOST=YOUR_PROXY_HOST
+pyinstaller --onefile --console main.py
+
